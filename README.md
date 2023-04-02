@@ -1,2 +1,2 @@
 first project
-yes
+yes of course
